@@ -60,5 +60,6 @@ footer {
 }
 
 .imagem {
-  width: 200px;
+  width: 100px;
+height: auto;
 }
